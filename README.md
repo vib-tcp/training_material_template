@@ -81,7 +81,7 @@ Schedule day 1:
 
 # Lesson overview
 
-> <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+> <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
 > <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
 >
@@ -259,6 +259,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
