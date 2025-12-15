@@ -136,6 +136,7 @@ Schedule day 1:
 
 Authors
 
+- @[orcid(Paulo Czarnewski)](http://orcid.org/0000-0001-8150-4021)
 - @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
 - @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
 
@@ -258,6 +259,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
