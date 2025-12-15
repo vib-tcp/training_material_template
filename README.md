@@ -18,11 +18,13 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 link:     https://raw.githubusercontent.com/vib-tcp/material-liascript/master/img/org.css
-link:     https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-styles.css
 link:     https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
 link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&display=swap
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 
+link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-styles.css
+
+@orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 @edition:  1st 
 @CourseTitle: replace by course title
@@ -43,8 +45,6 @@ link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
   console.debug("added json to head")
 </script>
 @end
-
-@orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 -->
 
@@ -258,6 +258,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
