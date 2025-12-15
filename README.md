@@ -24,8 +24,8 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 
 
-@tutor:    Neuropixels
 @edition:  1st 
+@CourseTitle: replace by course title
 
 @JSONLD
 <script run-once>
@@ -44,20 +44,16 @@ link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 </script>
 @end
 
-orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
+@orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 -->
 
-# Course Title
+# @CourseTitle
 
 <section>
 
-Hello and welcome to our @tutor workshop! We are very happy to have you here.
+Hello and welcome to our workshop! We are very happy to have you here.
 
-This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
-
-<img src="./images/globes/41920.jpg" width="350" align="center"/>
-
-Example image to ilustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
+This is the @edition edition of this workshop, jointly organised by VIB and ELIXIR.
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
@@ -66,13 +62,7 @@ Example image to ilustrate the front page of the material. This image was [Desig
 
 ## General context
 
-Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
-
-This is the {{workshop_edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
-
-- The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
-
-The **presentation** which goes alongside this material can be found [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md).
+This workshop is dedicated to ...
 
 ## Proposed Schedule
 
@@ -128,8 +118,8 @@ Schedule day 1:
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Exercises and solutions]()
-> 2. [Slides]()  
+> 1. [Exercises and solutions](link)
+> 2. [Slides](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
@@ -145,13 +135,14 @@ Schedule day 1:
 
 Authors
 
-- [Name](@[orcid](https://orcid.org/XXXX)
+- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
 
 Contributors
 
-- [Name](@[orcid](https://orcid.org/XXXY))
-- [Name](@[orcid](https://orcid.org/XXXZ))
-- [Name](@[orcid](https://orcid.org/XXXA))
+- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+
 
 ## Citing this lesson
 
@@ -266,6 +257,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
