@@ -46,6 +46,8 @@ link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 
 @orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
+-->
+
 # @CourseTitle
 
 <section>
@@ -256,6 +258,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
