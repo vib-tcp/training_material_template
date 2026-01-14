@@ -24,27 +24,10 @@ link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 
 link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-styles.css
 
-@orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
-
 @edition:  1st 
 @CourseTitle: replace by course title
 
-@JSONLD
-<script run-once>
-  let json = @0 
-
-  const script = document.createElement('script');
-  script.type = 'application/ld+json';
-  script.text = JSON.stringify(json);
-
-  document.head.appendChild(script);
-
-  // this is only needed to prevent and output,
-  // as long as the result of a script is undefined,
-  // it is not shown or rendered within LiaScript
-  console.debug("added json to head")
-</script>
-@end
+import:   https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/macro.md
 
 -->
 
@@ -259,6 +242,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
