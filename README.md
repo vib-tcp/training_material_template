@@ -31,7 +31,10 @@ import:   https://raw.githubusercontent.com/vib-tcp/training_material_template/r
 
 -->
 
-# Lesson overview
+# Course Title
+
+Lesson overview
+-----------------
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
