@@ -31,37 +31,6 @@ import:   https://raw.githubusercontent.com/vib-tcp/training_material_template/r
 
 -->
 
-# @CourseTitle
-
-<section>
-
-Hello and welcome to our workshop! We are very happy to have you here.
-
-This is the @edition edition of this workshop, jointly organised by VIB and ELIXIR.
-
-> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
-> It is a distributed way of creating and sharing educational content hosted on github.
-> To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/main/README.md)
-
-## General context
-
-This workshop is dedicated to ...
-
-## Proposed Schedule
-
-Schedule day 1:
-
-- 9:30 - 11:00 - session
-- 11:00 - 11:15 - break
-- 11:15 - 12:45 - session
-- 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - session
-- 15:15 - 15:30 - break
-- 15:30 - 17:00 - session
-
-</section>
-
 # Lesson overview
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
@@ -104,7 +73,19 @@ Schedule day 1:
 > 
 > 1. [Exercises and solutions](link)
 > 2. [Slides](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md)  
+>
+> ## Proposed Schedule
+>
+> Schedule day 1:
 > 
+>> - 9:30 - 11:00 - session
+>> - 11:00 - 11:15 - break
+>> - 11:15 - 12:45 - session
+>> - 12:45 - 13:45 - lunch
+>> - 13:45 - 15:15 - session
+>> - 15:15 - 15:30 - break
+>> - 15:30 - 17:00 - session
+>
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
 > * [ELIXIR Belgium](https://www.elixir-belgium.org/)
@@ -113,37 +94,42 @@ Schedule day 1:
 > <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
 >
 > <i class="fa fa-anchor"></i> **PURL**:  
+>
+>
+> ## Authors and Contributors
+>
+> Authors
+>
+>- @[orcid(Paulo Czarnewski)](http://orcid.org/0000-0001-8150-4021)
+>- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+>- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+>
+> Contributors
+>
+>- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+>- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+>
+> ## Citing this lesson
+>
+> Please cite as:
+>
+> 1. ...
+>
+> ## Chapters List
+>
+>| Chapter | Title                                                   |
+>| :---- | :------------------------------------------------         |
+>| 0     | [Get ready for the course, instalation and pre-reading](link) |
+>| 1     | [Chapter title](link)                                             |
+>| 2     | [Chapter title](link)                                             |
+>| 3     | [Chapter title](link)                                             |
 
+# Workshop and Material organization
 
-# Authors and Contributors
-
-Authors
-
-- @[orcid(Paulo Czarnewski)](http://orcid.org/0000-0001-8150-4021)
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
-
-Contributors
-
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
-
-
-## Citing this lesson
-
-Please cite as:
-
-  1. ...
-
-# Chapters List
-
-| Chapter | Title                                                   |
-| :---- | :------------------------------------------------         |
-| 0     | [Get ready for the course, instalation and pre-reading](link) |
-| 1     | [Chapter title](link)                                             |
-| 2     | [Chapter title](link)                                             |
-| 3     | [Chapter title](link)                                             |
-
+> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
+> It is a distributed way of creating and sharing educational content hosted on github.
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/main/README.md)
 
 # References
 
