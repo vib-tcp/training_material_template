@@ -63,7 +63,7 @@ import:   https://raw.githubusercontent.com/vib-tcp/training_material_template/r
 >
 > 6. Create and integrate ..... [Creating]
 >
->> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
+>> Support: Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals (**delete this line later on**)
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
 >
