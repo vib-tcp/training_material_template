@@ -50,6 +50,8 @@ Lesson overview
 > 3. Being comfortable working with ....  
 >
 > <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
+> You can find the presentation that goes along with this course in this [link](link)
+>> *We advise to share a view-only format of your online slides. If you don't have it you can share the folder link where the slides are in the repository* - ***Delete this after you update*** 
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 >
@@ -71,7 +73,7 @@ Lesson overview
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. [Exercises and solutions](link)
-> 2. [Slides](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md)  
+> 2. [Slides](./docs/presentations/)  
 >
 > ## Proposed Schedule
 >
@@ -99,14 +101,17 @@ Lesson overview
 >
 > Authors
 >
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](http://orcid.org/0000-0001-8150-4021) Paulo Czarnewski
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0001-8150-4021) Paulo Czarnewski
+>
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
+>
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
 >
 > Contributors
 >
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
+> [](http://orcid.org/0000-0000-0000-0000) Name Surname
+>
+> [](http://orcid.org/0000-0000-0000-0000) Name Surname
 >
 > ## Citing this lesson
 >
@@ -126,22 +131,35 @@ Lesson overview
 # Workshop and Material organization
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
+>
 > It is a distributed way of creating and sharing educational content hosted on github.
+>
 > To see this document as an interactive LiaScript rendered version, click on the
+>
 > following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/main/README.md)
 
 # References
 
 Here are some great tips for learning and to get inspired for writing your own pipelines:
 
+<span style="color:red"> *EXAMPLE:*</span>
+
 - Nextflow's official documentation ([link](https://www.nextflow.io/docs/latest/index.html))
+
 - Reach out to the community on Slack ([link](https://www.nextflow.io/slack-invite.html))
+
 - Curated collection of patterns ([link](https://github.com/nextflow-io/patterns))
+
 - Workshop focused on DSL2 developed by CRG Bioinformatics Core ([link](https://github.com/biocorecrg/ELIXIR_containers_nextflow))
+
 - Tutorial exercises (DSL1) developed by Seqera ([link](https://github.com/seqeralabs/nextflow-tutorial))
+
 - Curated ready-to-use analysis pipelines by NF-core ([link](https://nf-co.re/))
+
 - Model example pipeline on Variant Calling Analysis with NGS RNA-Seq data developed by CRG ([link](https://github.com/CRG-CNAG/CalliNGS-NF))
+
 - Tutorial by Andrew Severin ([link](https://bioinformaticsworkbook.org/dataAnalysis/nextflow/02_creatingAworkflow.html#gsc.tab=0))
+
 - Nextflow community basic training ([link](https://training.nextflow.io/basic_training/))
 
 # About us
@@ -166,11 +184,14 @@ The goal of VIB Technology Training is to up-skill life scientists to excel in t
 
 *Editorial team for this course*
 
-Authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[orcid(Bruna Piereck)](https://orcid.org/0000-0001-5958-0669)
+Authors: 
+@[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233)
 
-Technical Editors: Alexander Botzki
+@[orcid(Bruna Piereck)](https://orcid.org/0000-0001-5958-0669)
 
-License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+Technical Editor: Alexander Botzki
+
+License: [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](https://creativecommons.org/licenses/by-sa/4.0/deed.en) [4.0 international](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ```json   @JSONLD
 {
