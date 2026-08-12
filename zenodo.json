@@ -1,0 +1,45 @@
+{
+  "title": "Title here",
+  "version": "v2026.03.27",
+  "license": "CC-BY",
+  "upload_type": "lesson",
+  "description": "<p>include description like in the lesson overview.<\/p>",
+  "keywords": [
+    "key word",
+    "key word",
+    "key word"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "VIB",
+      "type": "rightsholder"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Botzki, Alexander",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-6691-4233",
+      "type": "contactperson"
+    },
+    {
+      "name": "surname, name",
+      "affiliation": "Afilliation",
+      "orcid": "0000-0000-0000-0000",
+      "type": "contactperson"
+    },
+    {
+      "name": "surname, name",
+      "affiliation": "Afilliation",
+      "orcid": "0000-0000-0000-0000",
+      "type": "relatedperson"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "vib-training-conferences"
+    }
+  ]
+}
