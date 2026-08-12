@@ -52,18 +52,14 @@ Lesson overview
 > <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
+>
 > By the end of the course, learners will be able to:
 >
 > 1. Define what ..... [Remembering] 
->
 > 2. Discuss and explain ..... [Understanding] 
->
 > 3. Apply and modify ..... [Applying] 
->
 > 4. Compare ..... [Analysing] 
->
 > 5. Evaluate and select ..... [Evaluating] 
->
 > 6. Create and integrate ..... [Creating]
 >
 >> Support: Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals (**delete this line later on**)
@@ -103,14 +99,14 @@ Lesson overview
 >
 > Authors
 >
->- @[orcid(Paulo Czarnewski)](http://orcid.org/0000-0001-8150-4021)
->- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
->- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0001-8150-4021) Paulo Czarnewski
+> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
+> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
 >
 > Contributors
 >
->- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
->- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
+> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
 >
 > ## Citing this lesson
 >
