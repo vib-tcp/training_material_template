@@ -109,9 +109,9 @@ Lesson overview
 >
 > Contributors
 >
-> [](http://orcid.org/0000-0000-0000-0000) Name Surname
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
 >
-> [](http://orcid.org/0000-0000-0000-0000) Name Surname
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
 >
 > ## Citing this lesson
 >
