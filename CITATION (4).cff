@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this lesson, please cite it as below."
+authors:
+- given-names: Alexander
+  family-names: Botzki
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
+- given-names: Name
+  family-names: Surname
+  affiliation: Affiliation
+  orcid: 0000-0000-0000-0000
+- given-names: Name
+  family-names: Surname
+  affiliation: Affiliation
+  orcid: 0000-0000-0000-0000
+contact:
+- given-names: Alexander
+  family-names: Botzki
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
+title: "Introduction to Strategic use of Generative AI in Research"
+version: v1.0.0
+doi: ~
+date-released: 2026-03-27
+keywords:
+- training material
+- keyword
+- keyword
+license: CC-BY
+repository-code: https://github.com/vib-training-conferences/introduction-to-generative-ai/
+type: lesson
+abstract: "Hands-on training material for .........."
+identifiers:
+- type: url
+  value: https://github.com/vib-training-conferences/introduction-to-generative-ai/
+  version: v2026.03.27
