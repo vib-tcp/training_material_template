@@ -90,7 +90,9 @@ Lesson overview
 > * [ELIXIR Belgium](https://www.elixir-belgium.org/)
 > * [VIB Technologies](https://www.vib.be/)
 >
-> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
+> <i class="fa fa-money-bill"></i> **Funding:**
+> - This project has received funding from the ELIXIR Programme 2022-2023.
+> - This project has received funding from VIB.
 >
 > <i class="fa fa-anchor"></i> **PURL**:  
 >
