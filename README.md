@@ -45,7 +45,7 @@ Lesson overview
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > To be able to follow this course, learners should have knowledge in:
 > 
-> 1. Basic knowlegde of HTML  
+> 1. Basic knowledge of HTML  
 > 2. Basic knowledge of ...
 > 3. Being comfortable working with ....  
 >
@@ -123,7 +123,7 @@ Lesson overview
 >
 >| Chapter | Title                                                   |
 >| :---- | :------------------------------------------------         |
->| 0     | [Get ready for the course, instalation and pre-reading](link) |
+>| 0     | [Get ready for the course, installation and pre-reading](link) |
 >| 1     | [Chapter title](link)                                             |
 >| 2     | [Chapter title](link)                                             |
 >| 3     | [Chapter title](link)                                             |

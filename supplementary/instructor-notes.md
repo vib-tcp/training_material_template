@@ -11,9 +11,9 @@ Activity 1
 
 Creating Learning outcomes (LOs)
 
-    Start with a reflexion indivudually what could be the LOs for their training that is being developed in the course.
+    Start with a reflection indivudually what could be the LOs for their training that is being developed in the course.
     Define and write the LO's in google docs or any other preferable tool, suggest that they are descriptive using the Bloom's taxonomy framework.
-    Identify the target audiance and prerequisite (if applicable) and if there is enought time register in the same document.
+    Identify the target audience and prerequisite (if applicable) and if there is enough time register in the same document.
 
 Activity 2 (refers to slide 2 of the presentation X)
 

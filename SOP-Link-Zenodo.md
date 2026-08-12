@@ -1,9 +1,9 @@
 
-# SOP: Get a DOI by syncronizing with Zenodo Metadata
+# SOP: Get a DOI by synchronizing with Zenodo Metadata
 
 ## Purpose
 
-This SOP ensures that the course instance will have a DOI linked to the Training and Confereces Zenodo community with the release metadata consistent across GitHub and Zenodo.
+This SOP ensures that the course instance will have a DOI linked to the Training & Conferences Zenodo community with the release metadata consistent across GitHub and Zenodo.
 
 ## Scope
 
@@ -21,10 +21,10 @@ For each release, define values once and copy exactly to both metadata files whe
 
 - Title: must be the same present in registration page at [Training and Conferences](https://www.vibtrainingandconferences.be/#/) and in [CITATION.cff](./CITATION.cff) and [zenodo.json](./zenodo.json).
 
-- Version: use the YYYYMMDD format for consistance and easy identification. You can also, when relevant, include the city. 
+- Version: use the YYYYMMDD format for consistency and easy identification. You can also, when relevant, include the city. 
 e.g.: V.20260812, V20260812_Gent
 
-- License: must match in both files. Advised license is [CCBY 4.0 interntional](https://creativecommons.org/licenses/by/4.0/deed.en). If you desire another license remender to update the [LICENSE](./LICENSE) file also and the [README.md](./README.md) where it is mentioned and linkes. You can find more information on ***How to apply Creative Commons (CC) Licenses?*** and ***What to consider?*** in the [CC license chooser link](https://creativecommons.org/chooser/) and remember to consider the License of the reference materials and software you use in your course.
+- License: must match in both files. Advised license is [CCBY 4.0 international](https://creativecommons.org/licenses/by/4.0/deed.en). If you desire another license remember to update the [LICENSE](./LICENSE) file also and the [README.md](./README.md) where it is mentioned and linked. You can find more information on ***How to apply Creative Commons (CC) Licenses?*** and ***What to consider?*** in the [CC license chooser link](https://creativecommons.org/chooser/) and remember to consider the License of the reference materials and software you use in your course.
 
 - Type: keep as lesson in both files.
 
@@ -72,7 +72,7 @@ e.g.: V.20260812, V20260812_Gent
 
 3. Update [README.md](./README.md):
 	- Include the DOI in the lesson overview
-    - Incliude the citation in dedicate part of the lesson overview
+    - Include the citation in dedicated part of the lesson overview
 
 4. If Zenodo metadata was edited manually in Zenodo, mirror those edits back into [zenodo.json](zenodo.json).
 

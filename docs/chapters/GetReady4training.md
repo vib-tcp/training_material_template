@@ -48,7 +48,7 @@ Please read this page carefully **before** the start of the workshop.
 
 <span style="color:red"> *EXAMPLE:*</span>
 
-We will be using the Gent section of the [Flemish Supercomputing Center](https://www.vscentrum.be/), you should have already recieved instructions for creating an account.
+We will be using the Gent section of the [Flemish Supercomputing Center](https://www.vscentrum.be/), you should have already received instructions for creating an account.
 Specifically, we will be using the [Interactive and Debug](https://docs.hpc.ugent.be/Linux/interactive_debug/) cluster. The cluster is already equipped with the latest version of Nextflow, and Apptainer.
 
 ## Prerequisites
