@@ -24,7 +24,7 @@ For each release, define values once and copy exactly to both metadata files whe
 - Version: use the YYYYMMDD format for consistance and easy identification. You can also, when relevant, include the city. 
 e.g.: V.20260812, V20260812_Gent
 
-- License: must match in both files. Advised license is [CCBY 4.0 interntional](https://creativecommons.org/licenses/by/4.0/deed.en)
+- License: must match in both files. Advised license is [CCBY 4.0 interntional](https://creativecommons.org/licenses/by/4.0/deed.en). If you desire another license remender to update the [LICENSE](./LICENSE) file also and the [README.md](./README.md) where it is mentioned and linkes. You can find more information on ***How to apply Creative Commons (CC) Licenses?*** and ***What to consider?*** in the [CC license chooser link](https://creativecommons.org/chooser/) and remember to consider the License of the reference materials and software you use in your course.
 
 - Type: keep as lesson in both files.
 
