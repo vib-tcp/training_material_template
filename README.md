@@ -94,7 +94,7 @@ Lesson overview
 > - This project has received funding from the ELIXIR Programme 2022-2023.
 > - This project has received funding from VIB.
 >
-> <i class="fa fa-anchor"></i> **PURL**:  
+> <i class="fa fa-anchor"></i> **PURL**:  <span style="color:red">not yet available</span>
 >
 >
 > ## Authors and Contributors
@@ -114,7 +114,7 @@ Lesson overview
 >
 > Please cite as:
 >
-> 1. ...
+> 1. <span style="color:red">to be updated soon</span>
 >
 > ## Chapters List
 >
