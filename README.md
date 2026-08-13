@@ -101,14 +101,14 @@ Lesson overview
 >
 > Authors
 >
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](http://orcid.org/0000-0001-8150-4021) Paulo Czarnewski
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0001-8150-4021) Paulo Czarnewski
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
 >
 > Contributors
 >
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/cc-by-sa.png" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0000-0000-0000) Name Surname
 >
 > ## Citing this lesson
 >
