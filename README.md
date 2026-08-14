@@ -68,7 +68,7 @@ Lesson overview
 >
 > <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
 >
-> <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
+> <i class="fa fa-envelope-open-text"></i> **Course Materials**:
 > 
 > 1. [Exercises and solutions](link)
 > 2. [Slides](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md)  
